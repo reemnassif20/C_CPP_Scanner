@@ -43,5 +43,3 @@ This project was developed for educational purposes as part of the Compiler Desi
 
 ---
 © 2024 Reem Ibrahim Abdullah Abdulghani Nassif - Faculty of Electronic Engineering, Monofeya University
-# C_CPP_Scanner
-This project implements a lexical analyzer (scanner) for C/C++ source code.
