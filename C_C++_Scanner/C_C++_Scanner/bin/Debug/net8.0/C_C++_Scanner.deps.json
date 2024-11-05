@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C_C++_Scanner/1.0.0": {
+        "runtime": {
+          "C_C++_Scanner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C_C++_Scanner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
