@@ -1,0 +1,14 @@
+C:\Users\Reem\Desktop\parser\parser\bin\Debug\net8.0\parser.exe
+C:\Users\Reem\Desktop\parser\parser\bin\Debug\net8.0\parser.deps.json
+C:\Users\Reem\Desktop\parser\parser\bin\Debug\net8.0\parser.runtimeconfig.json
+C:\Users\Reem\Desktop\parser\parser\bin\Debug\net8.0\parser.dll
+C:\Users\Reem\Desktop\parser\parser\bin\Debug\net8.0\parser.pdb
+C:\Users\Reem\Desktop\parser\parser\obj\Debug\net8.0\parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reem\Desktop\parser\parser\obj\Debug\net8.0\parser.AssemblyInfoInputs.cache
+C:\Users\Reem\Desktop\parser\parser\obj\Debug\net8.0\parser.AssemblyInfo.cs
+C:\Users\Reem\Desktop\parser\parser\obj\Debug\net8.0\parser.csproj.CoreCompileInputs.cache
+C:\Users\Reem\Desktop\parser\parser\obj\Debug\net8.0\parser.dll
+C:\Users\Reem\Desktop\parser\parser\obj\Debug\net8.0\refint\parser.dll
+C:\Users\Reem\Desktop\parser\parser\obj\Debug\net8.0\parser.pdb
+C:\Users\Reem\Desktop\parser\parser\obj\Debug\net8.0\parser.genruntimeconfig.cache
+C:\Users\Reem\Desktop\parser\parser\obj\Debug\net8.0\ref\parser.dll
